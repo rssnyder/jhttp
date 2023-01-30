@@ -13,7 +13,7 @@ import org.apache.commons.cli.ParseException;
 
 public final class Main {
 
-    private static final int DEFAULT_PORT = 8888;
+    private static final int DEFAULT_PORT = 8889;
 
     private static final int DEFAULT_THREAD_POOL_SIZE = 10;
 
